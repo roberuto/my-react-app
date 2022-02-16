@@ -6,3 +6,4 @@
 4.  Prettier, eslint, husky
 5.  CSS
 6.  CSS Modules
+7.  JSX
