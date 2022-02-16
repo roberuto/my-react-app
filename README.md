@@ -1,5 +1,6 @@
 # MY REACT APP
 
-01. Let's start
-02. Hello from CDN
-03. Zero config Webpack
+1.  Let's start
+2.  Hello from CDN
+3.  Zero config Webpack
+4.  Prettier, eslint, husky
