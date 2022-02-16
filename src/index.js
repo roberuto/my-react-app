@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import styles from "./index.module.css";
 
-const App = React.createElement("h1", { className: "hello" }, "Hello World");
+const App = React.createElement("h1", { className: styles.hello }, "Hello World");
 
 const root = document.getElementById("root");
 
