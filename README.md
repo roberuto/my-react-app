@@ -7,3 +7,4 @@
 5.  CSS
 6.  CSS Modules
 7.  JSX
+8.  Deploy to S3
